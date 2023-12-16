@@ -1,0 +1,48 @@
+[{
+    "id":1,
+    "name":"couch-isolated",
+    "prise":2500,
+    "img":"img cart/images1.jpeg"
+},{
+    "id":2,
+    "name":"charmin",
+    "prise":4500,
+    "img":"img cart/images3.jpeg"
+    
+},{
+    "id":3,
+    "name":"woody",
+    "prise":3700,
+    "img":"img cart/i.jpg"
+},{
+    "id":4,
+    "name":"teresa",
+    "prise":1600,
+    "img":"img cart/images2.jpeg"
+},{
+    "id":5,
+    "name":"lona",
+    "prise":8300,
+    "img":"img cart/images5.jpeg"
+    
+},{
+    "id":6,
+    "name":"adenis",
+    "prise":4200,
+    "img":"img cart/images4.jpeg"
+},{
+    "id":7,
+    "name":"clasic",
+    "prise":3700,
+    "img":"img cart/13-2-sofa-png-pic.png"
+},{
+    "id":8,
+    "name":"mobil",
+    "prise":2800,
+    "img":"img cart/img1.png"
+},{
+    "id":9,
+    "name":"couch-bloom",
+    "prise":2500,
+    "img":"img cart/Sleeper-Sofa-Transparent-Images-PNG.png"
+}]
